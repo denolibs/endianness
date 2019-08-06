@@ -1,4 +1,4 @@
-// Copyright 2019 Denolib authors. All rights reserved. MIT license.
+// Copyright (c) 2019 Denolibs authors. All rights reserved. MIT license.
 
 export default class Endianness {
   private readonly littleEndian: boolean;
