@@ -1,4 +1,4 @@
-# Endianness
+# Endianness [![Build Status](https://travis-ci.org/denolibs/endianness.svg?branch=master)](https://travis-ci.org/denolibs/endianness)
 A very simple Deno module to determine the endianness of the host
 * Completely written in TypeScript
 * No dependancies
